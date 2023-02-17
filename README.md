@@ -2,16 +2,12 @@
 
 <br />
 
-<p>
-	<b>A student majoring in Computer Science and Technology from China in NWPU</b>
-	<img align="right" src="https://komarev.com/ghpvc/?username=zymelaii&label=Profile%20views&color=0e75b6&style=flat" alt="zymelaii" />
-</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=zymelaii&label=Profile%20views&color=0e75b6&style=flat" alt="zymelaii" />
+<b>A student majoring in Computer Science and Technology from China in NWPU</b>
 
 <br />
 
-<div>
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymelaii&show_icons=true&locale=en&layout=compact&count_private=true&hide=tex,cmake,makefile" alt="zymelaii's most used languages" />
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymelaii&show_icons=true&locale=en&layout=compact&count_private=true&hide=tex,cmake,makefile" alt="zymelaii's most used languages" />
 <ul>
 	<li>:telescope: I'm currently working on <a href="https://github.com/zymelaii/npu.VirtualizationProject">npu.VirtualizationProject</a></li>
 	<li>:seedling: I'm currently learning indie game development</li>
@@ -27,8 +23,6 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
 </div>
-
-<br />
 
 ### Languages and skills:
 
@@ -48,8 +42,6 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" />
 </div>
 
-<br />
-
 ### Tools and supports:
 
 <div align="left">
@@ -65,18 +57,16 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40" />
 </div>
 
-<br />
-
 ## GitHub stats
 
 <div align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=zymelaii&show_icons=true&locale=en&count_private=true&custom_title=zymelaii's%20GitHub%20Stats" alt="zymelaii's GitHub stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=zymelaii&show_icons=true&locale=en&count_private=true&custom_title=zymelaii's%20GitHub%20Stats" alt="zymelaii's GitHub stats" />
 </div>
 
 ## GitHub streak stats
 
 <div align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zymelaii" alt="zymelaii's streak stats" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=zymelaii" alt="zymelaii's streak stats" />
 </div>
 
 ---
