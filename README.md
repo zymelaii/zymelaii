@@ -2,8 +2,10 @@
 
 <br />
 
-<img align="right" src="https://komarev.com/ghpvc/?username=zymelaii&label=Profile%20views&color=0e75b6&style=flat" alt="zymelaii" />
-<b>A student majoring in Computer Science and Technology from China in NWPU</b>
+<p>
+	<img align="right" src="https://komarev.com/ghpvc/?username=zymelaii&label=Profile%20views&color=0e75b6&style=flat" alt="zymelaii" />
+	<b>A student majoring in Computer Science and Technology from China in NWPU</b>
+</p>
 
 <br />
 
