@@ -13,7 +13,7 @@
 <ul>
 	<li>:telescope: I'm currently working on <a href="https://github.com/zymelaii/npu.VirtualizationProject">npu.VirtualizationProject</a></li>
 	<li>:seedling: I'm currently learning indie game development</li>
-	<li>:pencil: I irregularly write articles on <a href="https://blog.csdn.net/qq_37569077">CSDN</a></li>
+	<li>:pencil: I irregularly write articles on <a href="https://cnblogs.com/zymelaii">cn-blogs</a> and <a href="https://blog.csdn.net/qq_37569077">CSDN</a></li>
 	<li>:pushpin: C++ is the best and worst language :angry::rage::triumph:</li>
 </ul>
 
