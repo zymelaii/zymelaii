@@ -17,47 +17,33 @@
 	<li>:pushpin: C++ is the best and worst language :angry::rage::triumph:</li>
 </ul>
 
-### Major devenv:
+## My coding stuffs
 
-<div align="left">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-</div>
-
-### Languages and skills:
-
-<div align="left">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" />
-</div>
-
-### Tools and supports:
-
-<div align="left">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40" />
-</div>
+![](https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-C++-46a2f1?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-46a2f1?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white)
+![](https://img.shields.io/badge/-C%23-46a2f1?style=flat-square&logo=csharp&logoColor=white) <!-- languages -->
+![](https://img.shields.io/badge/-LaTeX-46a2f1?style=flat-square&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/-Markdown-46a2f1?style=flat-square&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-46a2f1?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/-Qt_6-46a2f1?style=flat-square&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/-OpenGL-46a2f1?style=flat-square&logo=opengl&logoColor=white)
+![](https://img.shields.io/badge/-GitHub_Actions-46a2f1?style=flat-square&logo=github-actions&logoColor=white) <!-- skills -->
+![](https://img.shields.io/badge/-Windows-46a2f1?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/-Arch_Linux-46a2f1?style=flat-square&logo=archlinux&logoColor=white)
+![](https://img.shields.io/badge/-Chrome-46a2f1?style=flat-square&logo=googlechrome&logoColor=white)
+![](https://img.shields.io/badge/-VSCode-46a2f1?style=flat-square&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/-Sublime_Text_4-46a2f1?style=flat-square&logo=sublimetext&logoColor=white)
+![](https://img.shields.io/badge/-Obsidian-46a2f1?style=flat-square&logo=obsidian&logoColor=white)
+![](https://img.shields.io/badge/-Vim-46a2f1?style=flat-square&logo=vim&logoColor=white) <!-- editors -->
+![](https://img.shields.io/badge/-Git-46a2f1?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-CMake-46a2f1?style=flat-square&logo=cmake&logoColor=white)
+![](https://img.shields.io/badge/-Gradle-46a2f1?style=flat-square&logo=gradle&logoColor=white)
+![](https://img.shields.io/badge/-NPM-46a2f1?style=flat-square&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/-Alacritty-46a2f1?style=flat-square&logo=alacritty&logoColor=white)
+![](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) <!-- toolkits -->
 
 ## GitHub stats
 
