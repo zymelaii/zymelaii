@@ -54,7 +54,7 @@
 ## GitHub streak stats
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=zymelaii" alt="zymelaii's streak stats" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=zymelaii&theme=tokyonight-duo&border_radius=5&locale=am&card_width=500&border=AA36EB51" alt="zymelaii's streak stats" />
 </div>
 
 ---
