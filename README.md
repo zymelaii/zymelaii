@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-46a2f1?style=flat-square&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Rust-46a2f1?style=flat-square&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-46a2f1?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-C%23-46a2f1?style=flat-square&logo=csharp&logoColor=white) <!-- languages -->
