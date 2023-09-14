@@ -11,7 +11,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymelaii&show_icons=true&locale=en&layout=compact&count_private=true&hide=tex,VHDL,Verilog,SystemVerilog,Assembly,V,Tcl,Vim%20Script,cmake,makefile" alt="zymelaii's most used languages" />
 <ul>
-	<li>:telescope: I'm currently working on <a href="https://github.com/zymelaii/sfacg-utils">sfacg-utils</a> [WIP]</li>
+	<li>:telescope: I'm currently working on <a href="https://github.com/zymelaii/ubook-rs">ubook-rs</a> [WIP]</li>
 	<li>:seedling: I'm currently learning indie game development</li>
 	<li>:pencil: I irregularly write articles on <a href="https://cnblogs.com/zymelaii">cn-blogs</a> and <a href="https://blog.csdn.net/qq_37569077">CSDN</a></li>
 	<li>:pushpin: C++ is the best and worst language :angry::rage::triumph:</li>
