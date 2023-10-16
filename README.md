@@ -9,7 +9,7 @@
 
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymelaii&show_icons=true&locale=en&layout=compact&count_private=true&hide=tex,VHDL,Verilog,SystemVerilog,Assembly,V,Tcl,Vim%20Script,cmake,makefile" alt="zymelaii's most used languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zymelaii&show_icons=true&locale=en&layout=compact&count_private=true&hide=html,tex,vim%20script,perl,assembly,nushell,cmake" alt="zymelaii's most used languages" />
 <ul>
 	<li>:telescope: I'm currently working on <a href="https://github.com/zymelaii/ubook-rs">ubook-rs</a> [WIP]</li>
 	<li>:seedling: I'm currently learning indie game development</li>
