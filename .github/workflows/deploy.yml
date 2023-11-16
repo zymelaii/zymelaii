@@ -38,6 +38,12 @@ jobs:
       run: |
         cmake -B build -S .
 
+    - name: install wakatime section
+      uses: anmol098/waka-readme-stats@master
+      with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
     - name: deploy
       run: |
         sh ./scripts/push.sh
