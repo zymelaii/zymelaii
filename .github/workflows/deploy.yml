@@ -1,0 +1,46 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'CMakeLists.txt'
+      - 'scripts/*'
+      - 'template/*'
+      - '.github/workflows/*.yml'
+  schedule:
+    - cron: '0 18 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout
+      uses: actions/checkout@v4
+      with:
+        token: ${{ SECRETS.ACCESS_TOKEN }}
+
+    - name: setup python env
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: fetch user activities
+      run: |
+        sh ./scripts/fetch-contrib-status.sh $PAT 5 > contrib-status.json
+        python ./scripts/parse-contrib-status.py contrib-status.json
+      env:
+        PAT: ${{ SECRETS.ACCESS_TOKEN }}
+
+    - name: generate profile
+      run: |
+        cmake -B build -S .
+
+    - name: deploy
+      run: |
+        sh ./scripts/push.sh
+      env:
+        COMMITTER_NAME: ${{ SECRETS.COMMITTER_NAME }}
+        COMMITTER_EMAIL: ${{ SECRETS.COMMITTER_EMAIL }}
