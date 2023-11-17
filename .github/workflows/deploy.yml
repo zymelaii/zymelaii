@@ -66,6 +66,10 @@ jobs:
         SHOW_LINES_OF_CODE: False
         SHOW_LANGUAGE_PER_REPO: False
 
+    - name: Sync to the remote
+      run: |
+        git pull
+
     - name: Generate snippets
       run: |
         python ./snippet/wip-repos.py $PAT 5
