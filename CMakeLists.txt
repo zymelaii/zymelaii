@@ -12,4 +12,8 @@ configure_file(
     @ONLY
 )
 
-add_custom_target(post-process)
+add_custom_target(
+    apply-snippets
+    COMMAND python ./scripts/apply-snippets.py ${SCHEMA}
+    WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
+)
