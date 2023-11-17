@@ -15,6 +15,20 @@
 🌙 Night                  294 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.71 % 
 ```
 
+⏳ **What I've Been Doing Lately**
+
+- 📌 _**zymelaii**_ ⣿ [zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
+- 📌 _**nwpu-lab-crate**_ ⣿ [西工大个人实验材料合集](https://github.com/zymelaii/nwpu-lab-crate) ⣿
+- 📌 _**nwpu-os-lab**_ ⣿ [Private records of NWPU os lab (2023)](https://github.com/zymelaii/nwpu-os-lab) ⣿
+- 📌 _**immortal-alone**_ ⣿ [open-source indie game: the lonely road to immortality](https://github.com/zymelaii/immortal-alone) ⣿
+- 📌 _**ubook-rs**_ ⣿ [A general online novel management tool.](https://github.com/zymelaii/ubook-rs) ⣿
+⏳ **What I've Been Doing Lately**
+
+- 📌 _**zymelaii**_ ⣿ [zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
+- 📌 _**nwpu-lab-crate**_ ⣿ [西工大个人实验材料合集](https://github.com/zymelaii/nwpu-lab-crate) ⣿
+- 📌 _**nwpu-os-lab**_ ⣿ [Private records of NWPU os lab (2023)](https://github.com/zymelaii/nwpu-os-lab) ⣿
+- 📌 _**immortal-alone**_ ⣿ [open-source indie game: the lonely road to immortality](https://github.com/zymelaii/immortal-alone) ⣿
+- 📌 _**ubook-rs**_ ⣿ [A general online novel management tool.](https://github.com/zymelaii/ubook-rs) ⣿
 
 📊 **This Week I Spent My Time On** 
 
