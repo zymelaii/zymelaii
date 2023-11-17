@@ -1,0 +1,4 @@
+build/
+snippet/*
+!snippet/*.py
+!snippet/*.static

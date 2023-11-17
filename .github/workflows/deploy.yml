@@ -6,7 +6,9 @@ on:
       - 'main'
     paths:
       - 'CMakeLists.txt'
+      - 'requirements.txt'
       - 'scripts/*'
+      - 'snippet/*'
       - 'template/*'
       - '.github/workflows/*.yml'
   schedule:
@@ -27,25 +29,22 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Fetch user activities
+    - name: Install python dependencis
       run: |
-        sh ./scripts/fetch-contrib-status.sh $PAT 5 > contrib-status.json
-        python ./scripts/parse-contrib-status.py contrib-status.json
-      env:
-        PAT: ${{ SECRETS.ACCESS_TOKEN }}
+        pip install -r requirements.txt
 
     - name: Generate profile
       run: |
         cmake -B build -S .
         sh ./scripts/commit.sh "chore: flush README.md template"
 
-    - name: Flush profile template
+    - name: Post Generate profile
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ SECRETS.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
 
-    - name: Install wakatime section
+    - name: Inject wakatime stats
       uses: anmol098/waka-readme-stats@master
       with:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -54,7 +53,6 @@ jobs:
         SYMBOL_VERSION: 2
         SHOW_COMMIT: True
         SHOW_LANGUAGE: True
-        SHOW_LINES_OF_CODE: True
         SHOW_TOTAL_CODE_TIME: True
         SHOW_OS: False
         SHOW_EDITORS: False
@@ -65,10 +63,22 @@ jobs:
         SHOW_DAYS_OF_WEEK: False
         SHOW_UPDATED_DATE: False
         SHOW_PROFILE_VIEWS: False
+        SHOW_LINES_OF_CODE: False
         SHOW_LANGUAGE_PER_REPO: False
 
-    #- name: push
-    #  uses: ad-m/github-push-action@master
-    #  with:
-    #    github_token: ${{ SECRETS.GITHUB_TOKEN }}
-    #    branch: ${{ github.ref }}
+    - name: Generate snippets
+      run: |
+        python ./snippet/wip-repos.py $PAT 5
+      env:
+        PAT: ${{ SECRETS.ACCESS_TOKEN }}
+
+    - name: Apply snippets
+      run: |
+        sh ./scripts/patch-snippet.sh "This Week I Spent My Time On" snippet/wip-repos
+        sh ./scripts/commit.sh "chore: apply snippets"
+
+    - name: Finalize deployment
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ SECRETS.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
