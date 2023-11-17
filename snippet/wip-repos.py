@@ -21,7 +21,7 @@ query {{
 '''
 
 TEMPLATES = {
-    'title': "⏳ **What I've Been Doing Lately**",
+    'title': "⏳ **What I've Been Working On Lately**",
     'repo': "- 📌 _**{repo}**_ ⣿ [{intro}](https://github.com/{owner}/{repo}) ⣿",
     'repo-without-intro': "- 📌 _**{repo}**_ [🚪](https://github.com/{owner}/{repo})",
     'none': "> 😏 Nothing to contribute for now, this looks pretty cool!",
