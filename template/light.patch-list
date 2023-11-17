@@ -3,5 +3,10 @@
         "hint": "This Week I Spent My Time On",
         "snippet": "wip-repos",
         "patch_before": true
+    },
+    {
+        "hint": "![Code Time]",
+        "snippet": "short-quote",
+        "patch_before": false
     }
 ]
