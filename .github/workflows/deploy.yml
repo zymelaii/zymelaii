@@ -78,7 +78,6 @@ jobs:
 
     - name: Apply snippets
       run: |
-        python ./scripts/apply-snippets.py light
         cmake --build build --target apply-snippets
         sh ./scripts/commit.sh "chore: apply snippets"
 
