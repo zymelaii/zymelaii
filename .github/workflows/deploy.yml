@@ -12,7 +12,7 @@ on:
       - 'template/*'
       - '.github/workflows/*.yml'
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 16 * * *'
 
 jobs:
   deploy:
