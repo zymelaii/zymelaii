@@ -15,10 +15,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                220 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.53 % 
-🌆 Daytime                899 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.93 % 
-🌃 Evening                891 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.59 % 
-🌙 Night                  299 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.95 % 
+🌞 Morning                221 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.57 % 
+🌆 Daytime                899 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.92 % 
+🌃 Evening                891 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.57 % 
+🌙 Night                  299 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.94 % 
 ```
 
 ⏳ **What I've Been Working On Lately**
@@ -42,3 +42,33 @@ Python                   2 hrs 5 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+  <table>
+    <tr/>
+    <tr/>
+      <td colspan="2" align="center"></td>
+    <tr>
+    <tr/>
+    <tr>
+      <td colspan="2" align="center">
+        <div align="left">⭐⭐⭐</div>
+        <b>GitHub Stats of zymelaii</b>
+        <div align="right">⭐⭐⭐</div>
+      </td>
+    </tr>
+    <tr/>
+      <td colspan="2" align="center"></td>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zymelaii&theme=buefy&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_title=true&hide_border=true"/>
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zymelaii&layout=donut&hide_title=true&hide_border=true"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"></td>
+    </tr>
+  </table>
+</div>
