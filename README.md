@@ -4,43 +4,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2027%20mins-blue)
-<div align="center">
-    <i>
-        <p>I got lost in self-criticism</p>
-        <p>and it was the kind of lost that's exactly like being found</p>
-    </i>
-</div>
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                224 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.61 % 
-🌆 Daytime                915 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.24 % 
-🌃 Evening                893 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.29 % 
-🌙 Night                  300 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.86 % 
-```
-
-⏳ **What I've Been Working On Lately**
-
-- 📌 _**zymelaii**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
-- 📌 _**nwpu-os-lab**_ ⣿ [Private records of NWPU os lab (2023)](https://github.com/zymelaii/nwpu-os-lab) ⣿
-- 📌 _**nwpu-lab-crate**_ ⣿ [西工大个人实验材料合集](https://github.com/zymelaii/nwpu-lab-crate) ⣿
-- 📌 _**immortal-alone**_ ⣿ [open-source indie game: the lonely road to immortality](https://github.com/zymelaii/immortal-alone) ⣿
-- 📌 _**ubook-rs**_ ⣿ [A general online novel management tool.](https://github.com/zymelaii/ubook-rs) ⣿
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 12 hrs 27 mins      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.65 % 
-C                        10 hrs 30 mins      ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.33 % 
-C++                      8 hrs 34 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.03 % 
-Other                    3 hrs 15 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.24 % 
-Assembly                 2 hrs 56 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.54 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
