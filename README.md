@@ -5,6 +5,12 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2059%20mins-blue)
+<div align="center">
+    <i>
+        <p>I got lost in self-criticism</p>
+        <p>and it was the kind of lost that's exactly like being found</p>
+    </i>
+</div>
 
 **I'm a Night 🦉** 
 
@@ -15,6 +21,13 @@
 🌙 Night                  307 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.98 % 
 ```
 
+⏳ **What I've Been Working On Lately**
+
+- 📌 _**zymelaii**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
+- 📌 _**nwpu-lab-crate**_ ⣿ [西工大 DL/CS 软件类实验合集](https://github.com/zymelaii/nwpu-lab-crate) ⣿
+- 📌 _**fake-railway-sys**_ ⣿ [A fake railway management system written with Qt6 for database course experiment.](https://github.com/zymelaii/fake-railway-sys) ⣿
+- 📌 _**nwpu-os-lab**_ ⣿ [Private records of NWPU os lab (2023)](https://github.com/zymelaii/nwpu-os-lab) ⣿
+- 📌 _**immortal-alone**_ ⣿ [open-source indie game: the lonely road to immortality](https://github.com/zymelaii/immortal-alone) ⣿
 
 📊 **This Week I Spent My Time On** 
 
