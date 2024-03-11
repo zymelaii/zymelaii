@@ -4,43 +4,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2059%20mins-blue)
-<div align="center">
-    <i>
-        <p>I got lost in self-criticism</p>
-        <p>and it was the kind of lost that's exactly like being found</p>
-    </i>
-</div>
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                239 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.67 % 
-🌆 Daytime                982 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.72 % 
-🌃 Evening                933 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.74 % 
-🌙 Night                  318 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.86 % 
-```
-
-⏳ **What I've Been Working On Lately**
-
-- 📌 _**zymelaii**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
-- 📌 _**nwpu-toy-scripts**_ ⣿ [NWPU 翱翔门户易用的油猴小脚本合集](https://github.com/zymelaii/nwpu-toy-scripts) ⣿
-- 📌 _**nwpu-lab-crate**_ ⣿ [西工大 DL/CS 软件类实验合集](https://github.com/zymelaii/nwpu-lab-crate) ⣿
-- 📌 _**slimec**_ ⣿ [A C-like compiler written in C++17 for multi-arch](https://github.com/zymelaii/slimec) ⣿
-- 📌 _**sublime.conf**_ ⣿ [Personal Edition of Sublime Text 4169](https://github.com/zymelaii/sublime.conf) ⣿
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               55 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.90 % 
-Markdown                 39 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.04 % 
-C++                      11 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.46 % 
-Other                    6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.45 % 
-CMake                    3 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.67 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
