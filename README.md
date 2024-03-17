@@ -5,6 +5,12 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%201%20min-blue)
+<div align="center">
+    <i>
+        <p>I got lost in self-criticism</p>
+        <p>and it was the kind of lost that's exactly like being found</p>
+    </i>
+</div>
 
 **I'm a Night 🦉** 
 
@@ -15,6 +21,13 @@
 🌙 Night                  319 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.87 % 
 ```
 
+⏳ **What I've Been Working On Lately**
+
+- 📌 _**zymelaii**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
+- 📌 _**mht-parser-for-qq-msg**_ ⣿ [Extract & convert messages from mht doc exported by PC QQ](https://github.com/zymelaii/mht-parser-for-qq-msg) ⣿
+- 📌 _**nwpu-toy-scripts**_ ⣿ [NWPU 翱翔门户易用的油猴小脚本合集](https://github.com/zymelaii/nwpu-toy-scripts) ⣿
+- 📌 _**slimec**_ ⣿ [A C-like compiler written in C++17 for multi-arch](https://github.com/zymelaii/slimec) ⣿
+- 📌 _**nwpu-lab-crate**_ ⣿ [西工大 DL/CS 软件类实验合集](https://github.com/zymelaii/nwpu-lab-crate) ⣿
 
 📊 **This Week I Spent My Time On** 
 
