@@ -4,43 +4,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2014%20mins-blue)
-<div align="center">
-    <i>
-        <p>I got lost in self-criticism</p>
-        <p>and it was the kind of lost that's exactly like being found</p>
-    </i>
-</div>
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                241 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.47 % 
-🌆 Daytime                1013 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.80 % 
-🌃 Evening                964 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.88 % 
-🌙 Night                  327 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.85 % 
-```
-
-⏳ **What I've Been Working On Lately**
-
-- 📌 _**zymelaii**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
-- 📌 _**slimec**_ ⣿ [A C-like compiler written in C++17 for multi-arch](https://github.com/zymelaii/slimec) ⣿
-- 📌 _**MikuCPU**_ [🚪](https://github.com/Sevenqi7/MikuCPU)
-- 📌 _**JustWrite**_ ⣿ [One of the most focused novel writer in the world!](https://github.com/zymelaii/JustWrite) ⣿
-- 📌 _**qimgv**_ ⣿ [Image viewer. Fast, easy to use. Optional video support.](https://github.com/zymelaii/qimgv) ⣿
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C                        19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.82 % 
-C++                      11 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.32 % 
-Other                    5 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.93 % 
-CMake                    3 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.63 % 
-Rust                     2 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.91 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
