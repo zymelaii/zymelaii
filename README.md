@@ -5,6 +5,12 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C143%20hrs%2039%20mins-blue)
+<div align="center">
+    <i>
+        <p>I got lost in self-criticism</p>
+        <p>and it was the kind of lost that's exactly like being found</p>
+    </i>
+</div>
 
 **I'm a Night 🦉** 
 
@@ -15,6 +21,13 @@
 🌙 Night                  638 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.61 % 
 ```
 
+⏳ **What I've Been Working On Lately**
+
+- 📌 _**zymelaii**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
+- 📌 _**os-labs**_ ⣿ [nwpu os labs 2024 (mirrored from gitee)](https://github.com/zymelaii/os-labs) ⣿
+- 📌 _**nwpu-toy-scripts**_ ⣿ [NWPU 翱翔门户易用的油猴/常规小脚本合集](https://github.com/zymelaii/nwpu-toy-scripts) ⣿
+- 📌 _**jwrite-help-me**_ ⣿ [jwrite with ai continuation features](https://github.com/zymelaii/jwrite-help-me) ⣿
+- 📌 _**UniversalMaaActuator**_ ⣿ [基于 MaaFramework 与 Qt6 的物华弥新一键长草小助手 | 通用 MAA PC 端极速预备中！](https://github.com/MAWHA/UniversalMaaActuator) ⣿
 
 📊 **This Week I Spent My Time On** 
 
