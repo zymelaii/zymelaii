@@ -4,43 +4,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C621%20hrs%204%20mins-blue)
-<div align="center">
-    <i>
-        <p>I got lost in self-criticism</p>
-        <p>and it was the kind of lost that's exactly like being found</p>
-    </i>
-</div>
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                437 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.55 % 
-🌆 Daytime                1602 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.68 % 
-🌃 Evening                1451 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.03 % 
-🌙 Night                  652 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.74 % 
-```
-
-⏳ **What I've Been Working On Lately**
-
-- 📌 _**zymelaii**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/zymelaii/zymelaii) ⣿
-- 📌 _**brand-new-minios**_ ⣿ [NWPU miniOS v2.0.0+](https://github.com/zymelaii/brand-new-minios) ⣿
-- 📌 _**nwpu-lab-crate**_ ⣿ [西工大 DL/CS 软件类实验合集](https://github.com/zymelaii/nwpu-lab-crate) ⣿
-- 📌 _**uniform-minios**_ ⣿ [a more consistent impl of nwpu minios](https://github.com/zymelaii/uniform-minios) ⣿
-- 📌 _**os-labs**_ ⣿ [nwpu os labs 2024 (mirrored from gitee)](https://github.com/zymelaii/os-labs) ⣿
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 27 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.35 % 
-Markdown                 17 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.27 % 
-TeX                      14 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.59 % 
-Text                     6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.47 % 
-CSV                      5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.93 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
