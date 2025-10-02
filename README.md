@@ -4,6 +4,9 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C175%20hrs%2022%20mins-blue)
+
+
 <!--END_SECTION:waka-->
 
 <div align="center">
