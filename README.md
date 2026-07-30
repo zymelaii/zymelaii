@@ -4,6 +4,54 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C264%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2036%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                545 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.56 % 
+🌆 Daytime                1907 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.45 % 
+🌃 Evening                1563 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.16 % 
+🌙 Night                  699 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      26 hrs 7 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.52 % 
+TeX                      11 hrs 30 mins      ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.08 % 
+JSON                     1 hr 8 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.70 % 
+Other                    57 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.26 % 
+CMake                    55 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.19 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 29 mins (3.52%)
+
+✍️ 2,782 lines written by AI, 13,180 lines written by hand (17.43% AI-written)
+
+🔤 35,531,351 Input Tokens, 129,078 Output Tokens
+
+💵 $180.88 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 78 AI Prompts
+
+Opus                     2,166 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 17.43% of written lines came from AI
+📝 Concise Prompter — average 347 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🔍 Hands-On Reviewer — 88.62% of changed lines were hand-edited
+```
+
+
 <!--END_SECTION:waka-->
 
 <div align="center">
