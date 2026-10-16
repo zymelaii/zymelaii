@@ -4,17 +4,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C483%20hrs%2052%20mins-blue?style=flat)
-<div align="center">
-    <i>
-        <p>I got lost in self-criticism</p>
-        <p>and it was the kind of lost that's exactly like being found</p>
-    </i>
-</div>
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2036%20mins-blue?style=flat)
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
