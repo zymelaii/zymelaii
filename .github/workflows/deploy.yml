@@ -20,12 +20,12 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         token: ${{ SECRETS.ACCESS_TOKEN }}
 
     - name: Setup python env
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v7
       with:
         python-version: '3.x'
 
